@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on GitHub
+STRONGLY TYPED
+A RESPONSIVE HTML5 SITE TEMPLATE. MANUFACTURED BY HTML5 UP.
